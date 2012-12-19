@@ -1,0 +1,4 @@
+fun
+===
+
+fun as is
